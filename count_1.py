@@ -1,9 +1,7 @@
-ans = 123
+ans = 23
 count = ans = input("Please enter:  $%23 ")
-print(count.count(ans))
-
-
-if count > ans:
-else:
-  print(*1)
-  
+if count <= ans:
+    try:
+        ...
+    except:
+        print(count.count(ans))
